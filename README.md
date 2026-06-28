@@ -5,8 +5,6 @@
   <a href="https://www.linkedin.com/in/divyanshi-n-39308b260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=divyanshi2929&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 ---
@@ -14,7 +12,6 @@
 ### 💫 About Me
 
 - 🏢 **AI/ML Engineer Intern** @ NimbusNext AITech — shipping features on a 10+ service enterprise RAG platform
-- 🎓 B.Tech CS · Medicaps University, Indore · **8.5 CGPA** · Expected Jul 2026
 - 🔧 Comfortable owning features end-to-end: design → code → tests → deploy
 - 🌱 Currently deepening expertise in **LLM agents, MCP, and scalable RAG architectures**
 
